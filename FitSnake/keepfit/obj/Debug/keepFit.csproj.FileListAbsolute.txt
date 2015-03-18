@@ -1,0 +1,13 @@
+E:\Programming\Snake\FitSnake\keepfit\bin\Debug\keepfit.exe.manifest
+E:\Programming\Snake\FitSnake\keepfit\bin\Debug\keepfit.application
+E:\Programming\Snake\FitSnake\keepfit\bin\Debug\keepfit.exe
+E:\Programming\Snake\FitSnake\keepfit\bin\Debug\keepfit.pdb
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\ResolveAssemblyReference.cache
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepFit.Help.resources
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepFit.MainForm.resources
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepFit.Properties.Resources.resources
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepFit.csproj.GenerateResource.Cache
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepfit.exe.manifest
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepfit.application
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepfit.exe
+E:\Programming\Snake\FitSnake\keepfit\obj\Debug\keepfit.pdb
