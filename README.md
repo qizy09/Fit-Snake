@@ -1,7 +1,7 @@
-# 20s As A Man
+# Fit-Snake
 -----------------
 
-This is a PC game written with Direct Draw. This game was designed for fun and as a gift for Girl's Day in my undergrad.
+This is a PC game written with C#. This game was designed for fun and as a gift for Girl's Day in my undergrad.
 
 # Background
 
@@ -9,5 +9,3 @@ This is a PC game written with Direct Draw. This game was designed for fun and a
 # License
     Copyright 2016.
     For any questions, feel free to let me know.
-# 20s-As-A-Man
-# Fit-Snake
